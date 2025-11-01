@@ -15,3 +15,7 @@ Python 3, TensorFlow/Keras, OpenCV, NumPy, scikit-learn, Matplotlib
 🚀 Status
 ✅ CNN Model: Fully trained and tested
 ⚙️ SVM & Random Forest: In development
+
+📂 Download
+You can download the complete project (including code, train/test data, and models) from the following link:
+👉 https://drive.google.com/drive/folders/1e1BDP3KMe9DKMWw18urt-pCk2BLDJSLK?usp=share_link
