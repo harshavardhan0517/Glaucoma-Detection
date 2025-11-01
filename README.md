@@ -1,2 +1,17 @@
-# Glaucoma-Detection
-A CNN-based glaucoma detection model built with Python 3 and trained/tested in Google Colab. Includes partial SVM and Random Forest implementations for comparison. The project can be easily downloaded and run directly in Google Colab, developed using TensorFlow and scikit-learn.
+🧠 Glaucoma Detection
+A deep learning project for automated glaucoma detection using Convolutional Neural Networks (CNNs). The model is trained and tested in Google Colab using Python 3, with data preprocessing and visualization handled through standard machine learning libraries.
+
+🔍 Features
+Fully implemented CNN-based model for glaucoma classification.
+Partially developed SVM and Random Forest classifiers for comparative analysis.
+Includes data preprocessing, model training, evaluation, and accuracy visualization.
+Runs seamlessly in Google Colab with GPU support.
+
+💻 Easily downloadable and executable using Google Colab environment developed by Google — no local setup required.
+
+🧩 Tech Stack
+Python 3, TensorFlow/Keras, OpenCV, NumPy, scikit-learn, Matplotlib
+
+🚀 Status
+✅ CNN Model: Fully trained and tested
+⚙️ SVM & Random Forest: In development
